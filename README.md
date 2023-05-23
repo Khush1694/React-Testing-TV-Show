@@ -3,7 +3,7 @@
 ## Advanced Web Applications ➡ Testing React
 
 ### Objectives
-
+ 
 
 - use mocks in unit tests
 - test asynchronous API calls that are made in a component
